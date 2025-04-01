@@ -31,6 +31,6 @@
 <body>
     <h1>Karnataka State Board Results</h1>
     <p id="loading">Fetching your results... Please wait.</p>
-    <img id="prankImage" src="https://https://drive.google.com/file/d/1vVBNndk6xueV2-Gp-Uj1nH3jnp-wYdO7/view?usp=drive_link.com" alt="Happy April Fools!">
+    <img id="prankImage" src="https://drive.google.com/file/d/1vVBNndk6xueV2-Gp-Uj1nH3jnp-wYdO7/view?usp=drive_link.com" alt="Happy April Fools!">
 </body>
 </html>
